@@ -49,4 +49,4 @@ for sub in subscribers:
         'Peyton@Weathermail.com',
         [sub.email])
     messages.append(message)
-    send_mass_mail(messages)
+    # send_mass_mail(messages)
